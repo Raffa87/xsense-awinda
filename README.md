@@ -9,4 +9,4 @@ from :
 https://www.xsens.com/mt-software-suite-mtw-awinda/
 
 2) Clone this repository in your catkin_ws and compile it (catkin_make)
-3) Modify config file in /cfg folder, adding your sensors' codes and labels
+3) Modify config file "sensor_label.txt" in /cfg folder, adding your sensors' codes and labels
